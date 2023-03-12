@@ -1,43 +1,83 @@
 # PythonLibrary.AdvancedDataStructures
+
 Advanced list of data structures written in python.
 
-Arrays | status: PENDING
-Linked Lists | status: PENDING
-Stacks | status: PENDING
-Queues | status: PENDING
-Trees | status: PENDING
-Graphs | status: PENDING
-Hash Tables | status: PENDING
-Heaps | status: PENDING
-Tries | status: PENDING
-Sets | status: PENDING
-Maps | status: PENDING
-Vectors | status: PENDING
-Matrices | status: PENDING
-Strings | status: PENDING
-Priority Queues | status: PENDING
-Bit Arrays | status: PENDING
-Binary Search Trees | status: PENDING
-AVL Trees | status: PENDING
-B-Trees | status: PENDING
-Red-Black Trees | status: PENDING
-Fenwick Trees (Binary Indexed Trees) | status: PENDING
-Segment Trees | status: PENDING
-Disjoint Sets (Union-Find) | status: PENDING
-Bloom Filters | status: PENDING
-Skip Lists | status: PENDING
-Radix Trees | status: PENDING
-Splay Trees | status: PENDING
-Quad Trees | status: PENDING
-Octrees | status: PENDING
-K-D Trees | status: PENDING
-Trie Trees | status: PENDING
-Patricia Tries | status: PENDING
-Fibonacci Heaps | status: PENDING
-Binomial Heaps | status: PENDING
-Radix Heaps | status: PENDING
-Interval Trees | status: PENDING
-B+ Trees | status: PENDING
-Range Trees | status: PENDING
-Rope Data Structures | status: PENDING
-Self-balancing Binary Search Trees | status: PENDING
+01. Arrays | status: PENDING
+
+02. Linked Lists | status: PENDING
+
+03. Stacks | status: PENDING
+
+04. Queues | status: PENDING
+
+05. Trees | status: PENDING
+
+06. Graphs | status: PENDING
+
+07. Hash Tables | status: PENDING
+
+08. Heaps | status: PENDING
+
+09. Tries | status: PENDING
+
+10. Sets | status: PENDING
+
+11. Maps | status: PENDING
+
+12. Vectors | status: PENDING
+
+13. Matrices | status: PENDING
+
+14. Strings | status: PENDING
+
+15. Priority Queues | status: PENDING
+
+16. Bit Arrays | status: PENDING
+
+17. Binary Search Trees | status: PENDING
+
+18. AVL Trees | status: PENDING
+
+19. B-Trees | status: PENDING
+
+20. Red-Black Trees | status: PENDING
+
+21. Fenwick Trees (Binary Indexed Trees) | status: PENDING
+
+22. Segment Trees | status: PENDING
+
+23. Disjoint Sets (Union-Find) | status: PENDING
+
+24. Bloom Filters | status: PENDING
+
+25. Skip Lists | status: PENDING
+
+26. Radix Trees | status: PENDING
+
+27. Splay Trees | status: PENDING
+
+28. Quad Trees | status: PENDING
+
+29. Octrees | status: PENDING
+
+30. K-D Trees | status: PENDING
+
+31. Trie Trees | status: PENDING
+
+32. Patricia Tries | status: PENDING
+
+33. Fibonacci Heaps | status: PENDING
+
+34. Binomial Heaps | status: PENDING
+
+35. Radix Heaps | status: PENDING
+
+36. Interval Trees | status: PENDING
+
+37. B+ Trees | status: PENDING
+
+38. Range Trees | status: PENDING
+
+39. Rope Data Structures | status: PENDING
+
+40. Self-balancing Binary Search Trees | status: PENDING
