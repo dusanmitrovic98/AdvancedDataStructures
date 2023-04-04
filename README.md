@@ -1,6 +1,6 @@
 # PythonLibrary.AdvancedDataStructures
 
-Advanced list of data structures written in python.
+Advanced list of data structures written in C#.
 
 01. Arrays | status: PENDING
 
