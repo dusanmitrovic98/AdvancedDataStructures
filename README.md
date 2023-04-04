@@ -1,4 +1,4 @@
-# PythonLibrary.AdvancedDataStructures
+# Library.AdvancedDataStructures
 
 Advanced list of data structures written in C#.
 
