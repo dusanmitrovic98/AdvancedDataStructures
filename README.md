@@ -2,7 +2,7 @@
 
 Advanced list of data structures written in C#.
 
-[X] Completed
+[X] Completed \n
 [ ] PENDING
 [+] IN-PROGRESS
 
