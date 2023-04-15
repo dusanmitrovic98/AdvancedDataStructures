@@ -169,4 +169,4 @@ Advanced list of data structures written in C#.
 
 - [x] 41. Dictionary | status: IN-PROGRESS
 
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+- ![#f03c15]
