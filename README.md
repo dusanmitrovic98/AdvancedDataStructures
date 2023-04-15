@@ -2,6 +2,10 @@
 
 Advanced list of data structures written in C#.
 
+[X] Completed
+[ ] PENDING
+[+] IN-PROGRESS
+
 ```
 
 [ ] 1.  Arrays | status: PENDING
@@ -84,5 +88,5 @@ Advanced list of data structures written in C#.
 
 [ ] 40. Self-balancing Binary Search Trees | status: PENDING
 
-[x] 41. Dictionary | status: IN-PROGRESS
+[x+] 41. Dictionary | status: IN-PROGRESS
 ```
