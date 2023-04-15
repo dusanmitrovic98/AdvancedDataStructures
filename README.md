@@ -168,3 +168,5 @@ Advanced list of data structures written in C#.
 - [ ] 40. Self-balancing Binary Search Trees | status: PENDING
 
 - [x] 41. Dictionary | status: IN-PROGRESS
+
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
