@@ -84,4 +84,4 @@ Advanced list of data structures written in C#.
 
 41. Dictionary | status: IN-PROGRESS
 
-This is <mark>highlighted</mark> text.
+This is `text`.
