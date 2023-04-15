@@ -2,84 +2,84 @@
 
 Advanced list of data structures written in C#.
 
-01. Arrays | status: PENDING
+1.  Arrays | status: <span style="color:yellow">PENDING</span>
 
-02. Linked Lists | status: PENDING
+2.  Linked Lists | status: <span style="color:yellow">PENDING</span>
 
-03. Stacks | status: PENDING
+3.  Stacks | status: <span style="color:yellow">PENDING</span>
 
-04. Queues | status: PENDING
+4.  Queues | status: <span style="color:yellow">PENDING</span>
 
-05. Trees | status: PENDING
+5.  Trees | status: <span style="color:yellow">PENDING</span>
 
-06. Graphs | status: PENDING
+6.  Graphs | status: <span style="color:yellow">PENDING</span>
 
-07. Hash Tables | status: PENDING
+7.  Hash Tables | status: <span style="color:yellow">PENDING</span>
 
-08. Heaps | status: PENDING
+8.  Heaps | status: <span style="color:yellow">PENDING</span>
 
-09. Tries | status: PENDING
+9.  Tries | status: <span style="color:yellow">PENDING</span>
 
-10. Sets | status: PENDING
+10. Sets | status: <span style="color:yellow">PENDING</span>
 
-11. Maps | status: PENDING
+11. Maps | status: <span style="color:yellow">PENDING</span>
 
-12. Vectors | status: PENDING
+12. Vectors | status: <span style="color:yellow">PENDING</span>
 
-13. Matrices | status: PENDING
+13. Matrices | status: <span style="color:yellow">PENDING</span>
 
-14. Strings | status: PENDING
+14. Strings | status: <span style="color:yellow">PENDING</span>
 
-15. Priority Queues | status: PENDING
+15. Priority Queues | status: <span style="color:yellow">PENDING</span>
 
-16. Bit Arrays | status: PENDING
+16. Bit Arrays | status: <span style="color:yellow">PENDING</span>
 
-17. Binary Search Trees | status: PENDING
+17. Binary Search Trees | status: <span style="color:yellow">PENDING</span>
 
-18. AVL Trees | status: PENDING
+18. AVL Trees | status: <span style="color:yellow">PENDING</span>
 
-19. B-Trees | status: PENDING
+19. B-Trees | status: <span style="color:yellow">PENDING</span>
 
-20. Red-Black Trees | status: PENDING
+20. PENDING-Black Trees | status: <span style="color:yellow">PENDING</span>
 
-21. Fenwick Trees (Binary Indexed Trees) | status: PENDING
+21. Fenwick Trees (Binary Indexed Trees) | status: <span style="color:yellow">PENDING</span>
 
-22. Segment Trees | status: PENDING
+22. Segment Trees | status: <span style="color:yellow">PENDING</span>
 
-23. Disjoint Sets (Union-Find) | status: PENDING
+23. Disjoint Sets (Union-Find) | status: <span style="color:yellow">PENDING</span>
 
-24. Bloom Filters | status: PENDING
+24. Bloom Filters | status: <span style="color:yellow">PENDING</span>
 
-25. Skip Lists | status: PENDING
+25. Skip Lists | status: <span style="color:yellow">PENDING</span>
 
-26. Radix Trees | status: PENDING
+26. Radix Trees | status: <span style="color:yellow">PENDING</span>
 
-27. Splay Trees | status: PENDING
+27. Splay Trees | status: <span style="color:yellow">PENDING</span>
 
-28. Quad Trees | status: PENDING
+28. Quad Trees | status: <span style="color:yellow">PENDING</span>
 
-29. Octrees | status: PENDING
+29. Octrees | status: <span style="color:yellow">PENDING</span>
 
-30. K-D Trees | status: PENDING
+30. K-D Trees | status: <span style="color:yellow">PENDING</span>
 
-31. Trie Trees | status: PENDING
+31. Trie Trees | status: <span style="color:yellow">PENDING</span>
 
-32. Patricia Tries | status: PENDING
+32. Patricia Tries | status: <span style="color:yellow">PENDING</span>
 
-33. Fibonacci Heaps | status: PENDING
+33. Fibonacci Heaps | status: <span style="color:yellow">PENDING</span>
 
-34. Binomial Heaps | status: PENDING
+34. Binomial Heaps | status: <span style="color:yellow">PENDING</span>
 
-35. Radix Heaps | status: PENDING
+35. Radix Heaps | status: <span style="color:yellow">PENDING</span>
 
-36. Interval Trees | status: PENDING
+36. Interval Trees | status: <span style="color:yellow">PENDING</span>
 
-37. B+ Trees | status: PENDING
+37. B+ Trees | status: <span style="color:yellow">PENDING</span>
 
-38. Range Trees | status: PENDING
+38. Range Trees | status: <span style="color:yellow">PENDING</span>
 
-39. Rope Data Structures | status: PENDING
+39. Rope Data Structures | status: <span style="color:yellow">PENDING</span>
 
-40. Self-balancing Binary Search Trees | status: PENDING
+40. Self-balancing Binary Search Trees | status: <span style="color:yellow">PENDING</span>
 
 41. Dictionary | status: IN-PROGRESS
