@@ -80,6 +80,8 @@ Advanced list of data structures written in C#.
 
 39. Rope Data Structures | status: [ ] PENDING
 
-40. Self-balancing Binary Search Trees | [ ] status: PENDING
+40. Self-balancing Binary Search Trees | - [ ] status: PENDING
 
 41. Dictionary | status: [x] [ ] IN-PROGRESS
+
+- [ ]
