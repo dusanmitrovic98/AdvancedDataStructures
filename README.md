@@ -8,7 +8,7 @@ Advanced list of data structures written in C#.
 
 03. Stacks | status: PENDING
 
-04. Queues | status: <color=red> PENDING </color>
+04. Queues | status: PENDING
 
 05. Trees | status: PENDING
 
@@ -81,3 +81,5 @@ Advanced list of data structures written in C#.
 39. Rope Data Structures | status: PENDING
 
 40. Self-balancing Binary Search Trees | status: PENDING
+
+41. Dictionary | status: IN-PROGRESS
