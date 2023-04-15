@@ -8,7 +8,7 @@ Advanced list of data structures written in C#.
 
 03. Stacks | status: PENDING
 
-04. Queues | status: PENDING
+04. Queues | status: <color=red> PENDING </color>
 
 05. Trees | status: PENDING
 
