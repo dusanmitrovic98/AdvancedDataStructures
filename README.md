@@ -25,7 +25,7 @@ Advanced list of data structures written in C#.
 
 [ ] 8.  Heaps | status: PENDING 
 
-[ ] 9.  Tries | status: PENDING 
+[ ] 9.  Tries | status: PENDING  
 
 [ ] 10. Sets | status: PENDING 
 
