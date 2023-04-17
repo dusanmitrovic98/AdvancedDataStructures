@@ -1,5 +1,5 @@
 # Library.DataStructures 
-
+ 
 Advanced list of data structures written in C#.
 
 ``` 
@@ -23,15 +23,15 @@ Advanced list of data structures written in C#.
 
 [ ] 7.  Hash Tables | status: PENDING
 
-[ ] 8.  Heaps | status: PENDING
+[ ] 8.  Heaps | status: PENDING 
 
-[ ] 9.  Tries | status: PENDING
+[ ] 9.  Tries | status: PENDING 
 
-[ ] 10. Sets | status: PENDING
+[ ] 10. Sets | status: PENDING 
 
 [ ] 11. Maps | status: PENDING
 
-[ ] 12. Vectors | status: PENDING
+[ ] 12. Vectors | status: PENDING 
 
 [ ] 13. Matrices | status: PENDING
 
