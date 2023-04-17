@@ -9,13 +9,13 @@ Advanced list of data structures written in C#.
 ```
 
 ```
-[ ] 1.  Arrays | status: PENDING
+[ ] 1.  Arrays | status: PENDING 
 
-[ ] 2.  Linked Lists | status: PENDING
+[ ] 2.  Linked Lists | status: PENDING 
 
-[ ] 3.  Stacks | status: PENDING
+[ ] 3.  Stacks | status: PENDING 
 
-[ ] 4.  Queues | status: PENDING 
+[ ] 4.  Queues | status: PENDING  
 
 [ ] 5.  Trees | status: PENDING
 
