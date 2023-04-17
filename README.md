@@ -1,4 +1,4 @@
-# Library.DataStructures  
+# Library.DataStructures
    
 Advanced list of data structures written in C#.
 
