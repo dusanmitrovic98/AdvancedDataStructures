@@ -15,7 +15,7 @@ Advanced list of data structures written in C#.
 
 [ ] 3.  Stacks | status: PENDING
 
-[ ] 4.  Queues | status: PENDING
+[ ] 4.  Queues | status: PENDING 
 
 [ ] 5.  Trees | status: PENDING
 
