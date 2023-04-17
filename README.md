@@ -1,4 +1,4 @@
-# Library.DataStructures 
+# Library.DataStructures  
  
 Advanced list of data structures written in C#.
 
@@ -31,7 +31,7 @@ Advanced list of data structures written in C#.
 
 [ ] 11. Maps | status: PENDING 
  
-[ ] 12. Vectors | status: PENDING 
+[ ] 12. Vectors | status: PENDING  
 
 [ ] 13. Matrices | status: PENDING
 
