@@ -17,21 +17,21 @@ Advanced list of data structures written in C#.
 
 [ ] 4.  Queues | status: PENDING  
 
-[ ] 5.  Trees | status: PENDING
+[ ] 5.  Trees | status: PENDING 
 
-[ ] 6.  Graphs | status: PENDING
+[ ] 6.  Graphs | status: PENDING 
 
-[ ] 7.  Hash Tables | status: PENDING
+[ ] 7.  Hash Tables | status: PENDING 
 
 [ ] 8.  Heaps | status: PENDING 
- 
+  
 [ ] 9.  Tries | status: PENDING  
 
 [ ] 10. Sets | status: PENDING  
-
+ 
 [ ] 11. Maps | status: PENDING 
  
-[ ] 12. Vectors | status: PENDING  
+[ ] 12. Vectors | status: PENDING   
 
 [ ] 13. Matrices | status: PENDING
 
