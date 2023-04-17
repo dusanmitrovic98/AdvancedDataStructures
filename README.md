@@ -1,21 +1,21 @@
-# Library.DataStructures     
+# Library.DataStructures  
    
 Advanced list of data structures written in C#.
 
 ``` 
 [X] Completed
-[ ] PENDING 
+[ ] PENDING  
 [+] IN-PROGRESS  
 ``` 
 
 ```
 [ ] 1.  Arrays | status: PENDING   
 
-[ ] 2.  Linked Lists | status: PENDING  
+[ ] 2.  Linked Lists | status: PENDING   
  
-[ ] 3.  Stacks | status: PENDING 
+[ ] 3.  Stacks | status: PENDING  
   
-[ ] 4.  Queues | status: PENDING  
+[ ] 4.  Queues | status: PENDING   
 
 [ ] 5.  Trees | status: PENDING  
 
@@ -47,7 +47,7 @@ Advanced list of data structures written in C#.
 
 [ ] 19. B-Trees | status: PENDING
 
-[ ] 20. Red-Black Trees | status: PENDING
+[ ] 20. Red-Black Trees | status: PENDING 
 
 [ ] 21. Fenwick Trees (Binary Indexed Trees) | status: PENDING
 
