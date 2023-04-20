@@ -134,7 +134,8 @@ Advanced list of data structures written in C#.
         queries on overlapping intervals.
 
 [ ] 37. B+ Trees | status: PENDING
-        A tree data structure used for storing and retrieving large amounts of data on disk or other secondary storage devices.
+        A tree data structure used for storing and retrieving large amounts of data on disk or
+        other secondary storage devices.
 
 [ ] 38. Range Trees | status: PENDING
         A tree data structure used for range searching, which is the task of finding all points or elements in a given range.
