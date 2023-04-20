@@ -119,7 +119,8 @@ Advanced list of data structures written in C#.
         A compressed trie data structure used to store associative arrays where the keys are strings.
 
 [ ] 33. Fibonacci Heaps | status: PENDING
-        A priority queue data structure that provides faster amortized time complexity than the binary heap.
+        A priority queue data structure that provides faster amortized time complexity than the 
+        binary heap.
 
 [ ] 34. Binomial Heaps | status: PENDING
         A heap data structure where each node has at most two children and the heap shape is maintained using a binary encoding of the heap size.
