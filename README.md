@@ -150,5 +150,6 @@ Advanced list of data structures written in C#.
         structure and maintain efficient search and insertion operations.
 
 [+] 41. Dictionary | status: IN-PROGRESS
-        A collection data structure that allows for efficient lookup, insertion, and deletion of key-value pairs.
+        A collection data structure that allows for efficient lookup, insertion, and deletion 
+        of key-value pairs.
 ```
