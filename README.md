@@ -118,7 +118,7 @@ Advanced list of data structures written in C#.
         A priority queue data structure that provides faster amortized time complexity than the binary heap.
 
 [ ] 34. Binomial Heaps | status: PENDING
-        A heap data structure that is used to maintain a set of items with a priority. It provides a way to merge multiple heaps efficiently and supports operations           like insert, delete, and extract-min in O(log n) time.
+        A heap data structure where each node has at most two children and the heap shape is maintained using a binary encoding of the heap size.
 
 [ ] 35. Radix Heaps | status: PENDING
 
