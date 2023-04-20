@@ -22,7 +22,8 @@ Advanced list of data structures written in C#.
         A linear data structure that follows the First-In-First-Out (FIFO) principle.
 
 [ ] 5.  Trees | status: PENDING  
-        A non-linear data structure consisting of nodes connected by edges, with a single node called the root and no cycles.
+        A non-linear data structure consisting of nodes connected by edges, with a single node 
+        called the root and no cycles.
 
 [ ] 6.  Graphs | status: PENDING 
         A non-linear data structure consisting of nodes (vertices) connected by edges that may or
