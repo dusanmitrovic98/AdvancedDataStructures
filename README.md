@@ -13,7 +13,8 @@ Advanced list of data structures written in C#.
         A collection of elements of the same data type stored in contiguous memory locations.
 
 [ ] 2.  Linked Lists | status: PENDING   
-        A linear data structure made up of nodes that hold a value and a reference to the next node in the list.
+        A linear data structure made up of nodes that hold a value and a reference to the next 
+        node in the list.
  
 [ ] 3.  Stacks | status: PENDING  
         A linear data structure that follows the Last-In-First-Out (LIFO) principle.
