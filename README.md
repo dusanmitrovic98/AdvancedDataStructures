@@ -142,7 +142,8 @@ Advanced list of data structures written in C#.
         or elements in a given range.
 
 [ ] 39. Rope Data Structures | status: PENDING
-        A data structure used for efficiently representing and manipulating large strings by dividing them into smaller chunks.
+        A data structure used for efficiently representing and manipulating large strings by
+        dividing them into smaller chunks.
 
 [ ] 40. Self-balancing Binary Search Trees | status: PENDING
         Binary search trees that automatically re-balance themselves to ensure a more balanced structure and maintain efficient search and insertion operations.
