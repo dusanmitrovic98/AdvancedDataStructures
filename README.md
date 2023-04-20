@@ -146,7 +146,8 @@ Advanced list of data structures written in C#.
         dividing them into smaller chunks.
 
 [ ] 40. Self-balancing Binary Search Trees | status: PENDING
-        Binary search trees that automatically re-balance themselves to ensure a more balanced structure and maintain efficient search and insertion operations.
+        Binary search trees that automatically re-balance themselves to ensure a more balanced 
+        structure and maintain efficient search and insertion operations.
 
 [+] 41. Dictionary | status: IN-PROGRESS
         A collection data structure that allows for efficient lookup, insertion, and deletion of key-value pairs.
