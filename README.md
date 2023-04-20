@@ -112,7 +112,8 @@ Advanced list of data structures written in C#.
         A space-partitioning data structure used for organizing points in a k-dimensional space.
 
 [ ] 31. Trie Trees | status: PENDING
-        A tree-like data structure used to store associative arrays where the keys are sequences, usually strings of characters.
+        A tree-like data structure used to store associative arrays where the keys are sequences, 
+        usually strings of characters.
 
 [ ] 32. Patricia Tries | status: PENDING
         A compressed trie data structure used to store associative arrays where the keys are strings.
