@@ -138,7 +138,8 @@ Advanced list of data structures written in C#.
         other secondary storage devices.
 
 [ ] 38. Range Trees | status: PENDING
-        A tree data structure used for range searching, which is the task of finding all points or elements in a given range.
+        A tree data structure used for range searching, which is the task of finding all points 
+        or elements in a given range.
 
 [ ] 39. Rope Data Structures | status: PENDING
         A data structure used for efficiently representing and manipulating large strings by dividing them into smaller chunks.
