@@ -92,7 +92,8 @@ Advanced list of data structures written in C#.
         a probabilistic data structure used to test whether an element is a member of a set.
 
 [ ] 25. Skip Lists | status: PENDING
-        A data structure that allows efficient search, insertion, and deletion operations on a list of items.
+        A data structure that allows efficient search, insertion, and deletion operations 
+        on a list of items.
 
 [ ] 26. Radix Trees | status: PENDING
         A compact trie-like data structure used for indexing variable-length keys.
