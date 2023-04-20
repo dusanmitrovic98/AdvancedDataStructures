@@ -121,6 +121,7 @@ Advanced list of data structures written in C#.
         A heap data structure where each node has at most two children and the heap shape is maintained using a binary encoding of the heap size.
 
 [ ] 35. Radix Heaps | status: PENDING
+        A heap data structure that uses radix sorting to maintain the heap property.
 
 [ ] 36. Interval Trees | status: PENDING
 
