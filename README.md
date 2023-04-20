@@ -130,7 +130,8 @@ Advanced list of data structures written in C#.
         A heap data structure that uses radix sorting to maintain the heap property.
 
 [ ] 36. Interval Trees | status: PENDING
-        A tree data structure used for storing intervals or segments, and allows for efficient queries on overlapping intervals.
+        A tree data structure used for storing intervals or segments, and allows for efficient
+        queries on overlapping intervals.
 
 [ ] 37. B+ Trees | status: PENDING
         A tree data structure used for storing and retrieving large amounts of data on disk or other secondary storage devices.
