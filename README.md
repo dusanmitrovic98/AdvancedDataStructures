@@ -58,6 +58,8 @@ Advanced list of data structures written in C#.
         A compact data structure used to represent a sequence of bits.
 
 [ ] 17. Binary Search Trees | status: PENDING
+        a binary tree in which every node has at most two children, with the left 
+        child being less than the parent and the right child being greater than the parent.
 
 [ ] 18. AVL Trees | status: PENDING
 
