@@ -49,6 +49,7 @@ Advanced list of data structures written in C#.
         A collection of elements arranged in rows and columns.
 
 [ ] 14. Strings | status: PENDING
+        A sequence of characters.
 
 [ ] 15. Priority Queues | status: PENDING
 
