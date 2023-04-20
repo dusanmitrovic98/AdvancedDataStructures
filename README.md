@@ -62,6 +62,8 @@ Advanced list of data structures written in C#.
         child being less than the parent and the right child being greater than the parent.
 
 [ ] 18. AVL Trees | status: PENDING
+        a self-balancing binary search tree in which the heights of the two child subtrees 
+        of any node differ by at most one.
 
 [ ] 19. B-Trees | status: PENDING
 
