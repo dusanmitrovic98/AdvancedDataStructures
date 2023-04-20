@@ -136,6 +136,7 @@ Advanced list of data structures written in C#.
         A data structure used for efficiently representing and manipulating large strings by dividing them into smaller chunks.
 
 [ ] 40. Self-balancing Binary Search Trees | status: PENDING
+        Binary search trees that automatically re-balance themselves to ensure a more balanced structure and maintain efficient search and insertion operations.
 
 [+] 41. Dictionary | status: IN-PROGRESS
 ```
