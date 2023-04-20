@@ -99,7 +99,8 @@ Advanced list of data structures written in C#.
         A compact trie-like data structure used for indexing variable-length keys.
 
 [ ] 27. Splay Trees | status: PENDING
-        A self-adjusting binary search tree that reorganizes itself after every operation to make frequently accessed elements faster to access.
+        A self-adjusting binary search tree that reorganizes itself after every operation to 
+        make frequently accessed elements faster to access.
 
 [ ] 28. Quad Trees | status: PENDING
         A tree data structure in which each internal node has exactly four children.
