@@ -12,5 +12,5 @@ for (int i = 0; i < array.Length; i++)
 
 Console.WriteLine("Number of elements: " + array.Length);
 Console.WriteLine(array);
-
+array.CopyTo(array2, 10);
 Console.WriteLine(array2);
