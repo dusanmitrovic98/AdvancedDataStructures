@@ -1,0 +1,17 @@
+C:\Users\BK2O198\Documents\Workstation\DataStructures\Main\bin\Debug\net7.0\Main.exe
+C:\Users\BK2O198\Documents\Workstation\DataStructures\Main\bin\Debug\net7.0\Main.deps.json
+C:\Users\BK2O198\Documents\Workstation\DataStructures\Main\bin\Debug\net7.0\Main.runtimeconfig.json
+C:\Users\BK2O198\Documents\Workstation\DataStructures\Main\bin\Debug\net7.0\Main.dll
+C:\Users\BK2O198\Documents\Workstation\DataStructures\Main\bin\Debug\net7.0\Main.pdb
+C:\Users\BK2O198\Documents\Workstation\DataStructures\Main\obj\Debug\net7.0\Main.csproj.AssemblyReference.cache
+C:\Users\BK2O198\Documents\Workstation\DataStructures\Main\obj\Debug\net7.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BK2O198\Documents\Workstation\DataStructures\Main\obj\Debug\net7.0\Main.AssemblyInfoInputs.cache
+C:\Users\BK2O198\Documents\Workstation\DataStructures\Main\obj\Debug\net7.0\Main.AssemblyInfo.cs
+C:\Users\BK2O198\Documents\Workstation\DataStructures\Main\obj\Debug\net7.0\Main.csproj.CoreCompileInputs.cache
+C:\Users\BK2O198\Documents\Workstation\DataStructures\Main\obj\Debug\net7.0\Main.dll
+C:\Users\BK2O198\Documents\Workstation\DataStructures\Main\obj\Debug\net7.0\refint\Main.dll
+C:\Users\BK2O198\Documents\Workstation\DataStructures\Main\obj\Debug\net7.0\Main.pdb
+C:\Users\BK2O198\Documents\Workstation\DataStructures\Main\obj\Debug\net7.0\Main.genruntimeconfig.cache
+C:\Users\BK2O198\Documents\Workstation\DataStructures\Main\obj\Debug\net7.0\ref\Main.dll
+C:\Users\BK2O198\Documents\Workstation\DataStructures\Main\bin\Debug\net7.0\Arrays.dll
+C:\Users\BK2O198\Documents\Workstation\DataStructures\Main\obj\Debug\net7.0\Main.csproj.CopyComplete
