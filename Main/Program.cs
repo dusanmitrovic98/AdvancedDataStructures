@@ -3,4 +3,11 @@
 // Arrays
 // Static arrays
 var array = new Array<int>(20);
-Console.WriteLine(array.Length);
+
+for (int i = 0; i < array.Length; i++)
+{
+    array[i] = i * i;
+}
+
+Console.WriteLine("Number of elements: " + array.Length);
+Console.WriteLine(array);
