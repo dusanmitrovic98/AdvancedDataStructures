@@ -12,6 +12,9 @@ for (int i = 0; i < array.Length; i++)
 
 Console.WriteLine("Number of elements: " + array.Length);
 Console.WriteLine(array);
+
+// * ------------------------------------------------------------------
+
 var array3 = array.Copy(10);
 Console.WriteLine("Number of elements 2: " + array3.Length);
 Console.WriteLine(array3);
