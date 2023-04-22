@@ -3,7 +3,6 @@
 // Arrays
 // Static arrays
 var array = new Array<int>(20);
-var array2 = new Array<int>(20);
 
 for (int i = 0; i < array.Length; i++)
 {
@@ -15,6 +14,6 @@ Console.WriteLine(array);
 
 // * ------------------------------------------------------------------
 
-var array3 = array.Copy(10);
-Console.WriteLine("Number of elements 2: " + array3.Length);
-Console.WriteLine(array3);
+var array2 = array.Copy(10);
+Console.WriteLine("Number of elements 2: " + array2.Length);
+Console.WriteLine(array2);
