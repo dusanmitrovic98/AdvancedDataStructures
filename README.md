@@ -15,4 +15,6 @@ Advanced list of data structures written in C#.
         [ ] Dynamic Arrays | PENDING
 
 [ ] 2.  Linked Lists | status: PENDING  
+        A linear data structure made up of nodes that hold a value and a reference to the next 
+        node in the list.
 ```
