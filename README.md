@@ -63,4 +63,6 @@ Advanced list of data structures written in C#.
         
 [ ] 16. Bit Arrays | status: PENDING
         A compact data structure used to represent a sequence of bits.
+        
+[ ] 17. Binary Search Trees | status: PENDING
 ```
