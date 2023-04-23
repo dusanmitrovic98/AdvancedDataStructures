@@ -50,4 +50,5 @@ Advanced list of data structures written in C#.
         A collection of key-value pairs.
         
 [ ] 12. Vectors | status: PENDING   
+        A dynamic array that can resize itself during runtime.
 ```
