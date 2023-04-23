@@ -97,4 +97,5 @@ Advanced list of data structures written in C#.
         on a list of items.
         
  [ ] 26. Radix Trees | status: PENDING
+         A compact trie-like data structure used for indexing variable-length keys.
 ```
