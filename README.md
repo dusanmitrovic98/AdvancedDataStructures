@@ -86,4 +86,6 @@ Advanced list of data structures written in C#.
          A tree data structure used to perform range queries and updates over an array.
          
  [ ] 23. Disjoint Sets (Union-Find) | status: PENDING
+         A data structure that maintains a collection of disjoint sets and supports two 
+        operations: union and find.
 ```
