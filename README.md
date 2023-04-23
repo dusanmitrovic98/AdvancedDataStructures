@@ -81,4 +81,6 @@ Advanced list of data structures written in C#.
         
  [ ] 21. Fenwick Trees (Binary Indexed Trees) | status: PENDING
         A data structure used to efficiently compute and update prefix sums of an array.
+        
+ [ ] 22. Segment Trees | status: PENDING
 ```
