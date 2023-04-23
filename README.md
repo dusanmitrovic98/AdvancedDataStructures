@@ -105,4 +105,6 @@ Advanced list of data structures written in C#.
         
  [ ] 28. Quad Trees | status: PENDING
          A tree data structure in which each internal node has exactly four children.
+         
+ [ ] 29. Octrees | status: PENDING
 ```
