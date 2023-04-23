@@ -31,4 +31,8 @@ Advanced list of data structures written in C#.
 [ ] 6.  Graphs | status: PENDING 
         A non-linear data structure consisting of nodes (vertices) connected by edges that may or
         may not have a direction.
+
+[ ] 7.  Hash Tables | status: PENDING 
+        A data structure that stores data in an associative manner, using a hash function to map
+        keys to values.
 ```
