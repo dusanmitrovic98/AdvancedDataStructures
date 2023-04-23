@@ -35,4 +35,6 @@ Advanced list of data structures written in C#.
 [ ] 7.  Hash Tables | status: PENDING 
         A data structure that stores data in an associative manner, using a hash function to map
         keys to values.
+        
+[ ] 8.  Heaps | status: PENDING 
 ```
