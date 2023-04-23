@@ -108,4 +108,6 @@ Advanced list of data structures written in C#.
          
  [ ] 29. Octrees | status: PENDING
          A tree data structure in which each internal node has exactly eight children.
+         
+ [ ] 30. K-D Trees | status: PENDING
 ```
