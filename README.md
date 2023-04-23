@@ -91,4 +91,6 @@ Advanced list of data structures written in C#.
         
  [ ] 24. Bloom Filters | status: PENDING
          a probabilistic data structure used to test whether an element is a member of a set.
+         
+ [ ] 25. Skip Lists | status: PENDING
 ```
