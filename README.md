@@ -19,4 +19,5 @@ Advanced list of data structures written in C#.
         node in the list.
         
 [ ] 3.  Stacks | status: PENDING  
+        A linear data structure that follows the Last-In-First-Out (LIFO) principle.
 ```
