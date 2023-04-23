@@ -47,4 +47,5 @@ Advanced list of data structures written in C#.
         A collection of unique elements.
     
 [ ] 11. Maps | status: PENDING 
+        A collection of key-value pairs.
 ```
