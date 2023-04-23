@@ -111,4 +111,6 @@ Advanced list of data structures written in C#.
          
  [ ] 30. K-D Trees | status: PENDING
          A space-partitioning data structure used for organizing points in a k-dimensional space.
+         
+ [ ] 31. Trie Trees | status: PENDING
 ```
