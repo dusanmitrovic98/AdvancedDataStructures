@@ -48,4 +48,6 @@ Advanced list of data structures written in C#.
     
 [ ] 11. Maps | status: PENDING 
         A collection of key-value pairs.
+        
+[ ] 12. Vectors | status: PENDING   
 ```
