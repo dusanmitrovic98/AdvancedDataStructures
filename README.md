@@ -39,4 +39,6 @@ Advanced list of data structures written in C#.
 [ ] 8.  Heaps | status: PENDING 
         A complete binary tree in which every node has a value less than or equal to (or greater
         than or equal to) the values of its children.
+        
+[ ] 9.  Tries | status: PENDING  
 ```
