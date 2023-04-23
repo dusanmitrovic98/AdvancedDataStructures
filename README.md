@@ -88,4 +88,6 @@ Advanced list of data structures written in C#.
  [ ] 23. Disjoint Sets (Union-Find) | status: PENDING
          A data structure that maintains a collection of disjoint sets and supports two 
         operations: union and find.
+        
+ [ ] 24. Bloom Filters | status: PENDING
 ```
