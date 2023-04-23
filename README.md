@@ -83,4 +83,5 @@ Advanced list of data structures written in C#.
         A data structure used to efficiently compute and update prefix sums of an array.
         
  [ ] 22. Segment Trees | status: PENDING
+         A tree data structure used to perform range queries and updates over an array.
 ```
