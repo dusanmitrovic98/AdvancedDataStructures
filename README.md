@@ -118,4 +118,39 @@ Advanced list of data structures written in C#.
         
  [ ] 32. Patricia Tries | status: PENDING
          A compressed trie data structure used to store associative arrays where the keys are strings.
+         
+ [ ] 33. Fibonacci Heaps | status: PENDING
+        A priority queue data structure that provides faster amortized time complexity than the 
+        binary heap.
+
+[ ] 34. Binomial Heaps | status: PENDING
+        A heap data structure where each node has at most two children and the heap shape is 
+        maintained using a binary encoding of the heap size.
+
+[ ] 35. Radix Heaps | status: PENDING
+        A heap data structure that uses radix sorting to maintain the heap property.
+
+[ ] 36. Interval Trees | status: PENDING
+        A tree data structure used for storing intervals or segments, and allows for efficient
+        queries on overlapping intervals.
+
+[ ] 37. B+ Trees | status: PENDING
+        A tree data structure used for storing and retrieving large amounts of data on disk or
+        other secondary storage devices.
+
+[ ] 38. Range Trees | status: PENDING
+        A tree data structure used for range searching, which is the task of finding all points 
+        or elements in a given range.
+
+[ ] 39. Rope Data Structures | status: PENDING
+        A data structure used for efficiently representing and manipulating large strings by
+        dividing them into smaller chunks.
+
+[ ] 40. Self-balancing Binary Search Trees | status: PENDING
+        Binary search trees that automatically re-balance themselves to ensure a more balanced 
+        structure and maintain efficient search and insertion operations.
+
+[+] 41. Dictionary | status: IN-PROGRESS
+        A collection data structure that allows for efficient lookup, insertion, and deletion 
+        of key-value pairs.
 ```
