@@ -84,4 +84,6 @@ Advanced list of data structures written in C#.
         
  [ ] 22. Segment Trees | status: PENDING
          A tree data structure used to perform range queries and updates over an array.
+         
+ [ ] 23. Disjoint Sets (Union-Find) | status: PENDING
 ```
