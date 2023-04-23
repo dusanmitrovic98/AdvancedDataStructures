@@ -102,4 +102,6 @@ Advanced list of data structures written in C#.
  [ ] 27. Splay Trees | status: PENDING
          A self-adjusting binary search tree that reorganizes itself after every operation to 
         make frequently accessed elements faster to access.
+        
+ [ ] 28. Quad Trees | status: PENDING
 ```
