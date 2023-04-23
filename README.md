@@ -29,4 +29,6 @@ Advanced list of data structures written in C#.
         called the root and no cycles.
         
 [ ] 6.  Graphs | status: PENDING 
+        A non-linear data structure consisting of nodes (vertices) connected by edges that may or
+        may not have a direction.
 ```
