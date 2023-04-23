@@ -72,4 +72,6 @@ Advanced list of data structures written in C#.
         of any node differ by at most one.
         
 [ ] 19. B-Trees | status: PENDING
+        a self-balancing tree data structure that maintains sorted data and allows searches, 
+        sequential access, insertions, and deletions in logarithmic time.
 ```
