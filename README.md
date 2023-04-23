@@ -41,4 +41,5 @@ Advanced list of data structures written in C#.
         than or equal to) the values of its children.
         
 [ ] 9.  Tries | status: PENDING  
+        A tree-like data structure used to store associative arrays where the keys are strings.
 ```
