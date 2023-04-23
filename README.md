@@ -117,4 +117,5 @@ Advanced list of data structures written in C#.
         usually strings of characters.
         
  [ ] 32. Patricia Tries | status: PENDING
+         A compressed trie data structure used to store associative arrays where the keys are strings.
 ```
