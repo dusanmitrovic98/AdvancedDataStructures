@@ -4,10 +4,11 @@
 // Static arrays
 var array = new Array<int>(20);
 
-for (int i = 0; i < array.Length; i++)
-{
-    array[i] = i * i;
-}
+// for (int i = 0; i < array.Length; i++)
+// {
+//     array[i] = i * i;
+// }
+// array.Add(22);
 
 Console.WriteLine("Number of elements: " + array.Length);
 Console.WriteLine(array);
