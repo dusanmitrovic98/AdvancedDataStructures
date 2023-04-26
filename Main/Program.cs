@@ -3,6 +3,5 @@
 // Arrays
 // Static arrays
 var array = new Array<int>(20);
-array.Fill(1);
 Console.WriteLine("Number of elements: " + array.Length);
 Console.WriteLine(array);
