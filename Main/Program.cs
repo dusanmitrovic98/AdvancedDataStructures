@@ -16,7 +16,7 @@ dynamicArray.Add(1);
 dynamicArray.Add(2);
 dynamicArray.Add(3);
 
-
+Console.WriteLine(dynamicArray);
 
 // Get the size and capacity of the dynamic array
 int size = dynamicArray.Size; // size = 3
