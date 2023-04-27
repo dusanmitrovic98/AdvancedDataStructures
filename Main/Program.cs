@@ -47,7 +47,6 @@ Console.WriteLine(dynamicArray);
 
 // Remove an element from the dynamic array
 bool removed = dynamicArray.Remove(4); // removed = true, dynamicArray is now [1, 5, 3]
-
 Console.WriteLine(dynamicArray);
 
 // Remove an element at a specific index from the dynamic array
