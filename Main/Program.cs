@@ -62,5 +62,4 @@ DynamicArray<string> stringArray = new DynamicArray<string>(10);
 stringArray.Add("hello");
 stringArray.Add("world");
 stringArray.TrimExcess(); // stringArray has capacity of 2 now
-
 Console.WriteLine(dynamicArray);
