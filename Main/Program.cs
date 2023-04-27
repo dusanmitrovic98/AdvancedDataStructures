@@ -1,10 +1,12 @@
 ﻿// * Script used to showcase examples for each DLL library.
+// * 1) Static array
+
 using DataStructures.Collections.DynamicArray;
 
 // Arrays
-// Static arrays
+// 1) Static array
 
-// Dynamic Arrays
+// 2) Dynamic array
 // Create a new dynamic array with initial capacity of 2
 DynamicArray<int> dynamicArray = new DynamicArray<int>(2);
 
