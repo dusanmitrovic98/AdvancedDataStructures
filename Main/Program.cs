@@ -34,8 +34,8 @@ Console.WriteLine(dynamicArray);
 // Check if an element exists in the dynamic array
 bool containsThree = dynamicArray.Contains(3); // containsThree = true
 bool containsFour = dynamicArray.Contains(4); // containsFour = false
-
 Console.WriteLine("Contains Three: " + containsThree);
+
 Console.WriteLine("Contains Four: " + containsFour);
 
 // Get the index of an element in the dynamic array
