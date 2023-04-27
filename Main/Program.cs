@@ -1,5 +1,4 @@
-﻿using DataStructures.Collections.Array;
-using DataStructures.Collections.DynamicArray;
+﻿using DataStructures.Collections.DynamicArray;
 
 // Arrays
 // Static arrays
