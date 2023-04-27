@@ -50,6 +50,8 @@ Console.WriteLine(dynamicArray);
 // Remove an element at a specific index from the dynamic array
 dynamicArray.RemoveAt(1); // dynamicArray is now [1, 3]
 
+Console.WriteLine(dynamicArray);
+
 // Clear all elements from the dynamic array
 dynamicArray.Clear(); // dynamicArray is now []
 
