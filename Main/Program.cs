@@ -55,6 +55,8 @@ Console.WriteLine(dynamicArray);
 // Clear all elements from the dynamic array
 dynamicArray.Clear(); // dynamicArray is now []
 
+Console.WriteLine(dynamicArray);
+
 // Trim the excess capacity from the dynamic array
 DynamicArray<string> stringArray = new DynamicArray<string>(10);
 stringArray.Add("hello");
