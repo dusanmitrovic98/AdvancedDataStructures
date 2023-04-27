@@ -1,5 +1,6 @@
 ﻿// * Script used to showcase examples for each DLL library.
 // * 1) Static array
+// * 2) Dynamic array
 
 using DataStructures.Collections.DynamicArray;
 
