@@ -26,6 +26,8 @@ int capacity = dynamicArray.Capacity; // capacity = 4
 int firstElement = dynamicArray[0]; // firstElement = 1
 dynamicArray[1] = 5; // dynamicArray is now [1, 5, 3]
 
+Console.WriteLine(dynamicArray);
+
 // Check if an element exists in the dynamic array
 bool containsThree = dynamicArray.Contains(3); // containsThree = true
 bool containsFour = dynamicArray.Contains(4); // containsFour = false
