@@ -15,3 +15,4 @@ C:\Users\BK2O198\Documents\Workstation\DataStructures\Main\obj\Debug\net7.0\Main
 C:\Users\BK2O198\Documents\Workstation\DataStructures\Main\obj\Debug\net7.0\ref\Main.dll
 C:\Users\BK2O198\Documents\Workstation\DataStructures\Main\bin\Debug\net7.0\Arrays.dll
 C:\Users\BK2O198\Documents\Workstation\DataStructures\Main\obj\Debug\net7.0\Main.csproj.CopyComplete
+C:\Users\BK2O198\Documents\Workstation\DataStructures\Main\bin\Debug\net7.0\DynamicArrays.dll

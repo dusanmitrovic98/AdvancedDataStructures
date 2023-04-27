@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v7.0": {
       "Main/1.0.0": {
         "dependencies": {
-          "Arrays": "1.0.0.0"
+          "Arrays": "1.0.0.0",
+          "DynamicArrays": "1.0.0.0"
         },
         "runtime": {
           "Main.dll": {}
@@ -17,6 +18,14 @@
       "Arrays/1.0.0.0": {
         "runtime": {
           "Arrays.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DynamicArrays/1.0.0.0": {
+        "runtime": {
+          "DynamicArrays.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -31,6 +40,11 @@
       "sha512": ""
     },
     "Arrays/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DynamicArrays/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
