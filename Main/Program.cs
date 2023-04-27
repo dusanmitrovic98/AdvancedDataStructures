@@ -3,9 +3,6 @@ using DataStructures.Collections.DynamicArray;
 
 // Arrays
 // Static arrays
-// var array = new Array<int>(20);
-// Console.WriteLine("Number of elements: " + array.Length);
-// Console.WriteLine(array);
 
 // Dynamic Arrays
 // Create a new dynamic array with initial capacity of 2
