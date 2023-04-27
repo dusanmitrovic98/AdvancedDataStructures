@@ -21,8 +21,9 @@ Console.WriteLine(dynamicArray);
 // Get the size and capacity of the dynamic array
 int size = dynamicArray.Size; // size = 3
 int capacity = dynamicArray.Capacity; // capacity = 4
+Console.WriteLine("Size: " + size);
+Console.WriteLine("Capacity: " + size);
 
-Console.WriteLine("sIZE: " + size);
 
 // Get and set an element in the dynamic array
 int firstElement = dynamicArray[0]; // firstElement = 1
