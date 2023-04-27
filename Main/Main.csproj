@@ -9,5 +9,8 @@
     <Reference Include="DataStructures.Collections.Array;">
         <HintPath>C:\Users\BK2O198\Documents\Workstation\DataStructures\Collections\Array\Arrays.dll</HintPath>
     </Reference>
+    <Reference Include="DataStructures.Collections.Array;">
+        <HintPath>C:\Users\BK2O198\Documents\Workstation\DataStructures\Collections\DynamicArray\DynamicArrays.dll</HintPath>
+    </Reference>
   </ItemGroup>
 </Project>
