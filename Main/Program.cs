@@ -35,6 +35,8 @@ bool containsFour = dynamicArray.Contains(4); // containsFour = false
 // Get the index of an element in the dynamic array
 int index = dynamicArray.IndexOf(5); // index = 1
 
+Console.WriteLine("Index: " + index);
+
 // Insert an element at a specific index in the dynamic array
 dynamicArray.Insert(1, 4); // dynamicArray is now [1, 4, 5, 3]
 
