@@ -6,10 +6,10 @@
 
 using DataStructures.Collections.DynamicArray;
 
-// 1) Arrays
-// a) Static array
+// * 1) Arrays
+// * a) Static array
 
-// b) Dynamic array
+// * b) Dynamic array
 // Create a new dynamic array with initial capacity of 2
 DynamicArray<int> dynamicArray = new DynamicArray<int>(2);
 
@@ -64,3 +64,65 @@ stringArray.Add("world");
 stringArray.TrimExcess(); // stringArray has capacity of 2 now
 Console.WriteLine(stringArray);
 
+// * List
+// Create a new list
+List<int> myList = new List<int>();
+
+// Add some items to the list
+myList.Add(1);
+myList.Add(2);
+myList.Add(3);
+myList.Add(4);
+myList.Add(5);
+
+// Add a range of items to the list
+myList.AddRange(new int[] { 6, 7, 8, 9, 10 });
+
+// Get a read-only copy of the list
+IReadOnlyList<int> readOnlyList = myList.AsReadOnly();
+
+// Binary search for an item in the list
+int indexInList = myList.BinarySearch(7);
+
+// Clear the list
+myList.Clear();
+
+// Check if an item is in the list
+bool containsItem = myList.Contains(5);
+
+// Convert all items in the list to strings
+List<string> stringList = myList.ConvertAll(i => i.ToString());
+
+// Copy the items in the list to an array
+int[] array = new int[myList.Count];
+myList.CopyTo(array, 0);
+
+// Get the index of an item in the list
+int itemIndex = myList.IndexOf(3);
+
+// Insert an item at a specific index
+myList.Insert(2, 2);
+
+// Insert a range of items at a specific index
+myList.InsertRange(3, new int[] { 3, 3, 3 });
+
+// Remove the first occurrence of an item from the list
+bool removedElement = myList.Remove(2);
+
+// Remove all occurrences of an item from the list
+int removedCount = myList.RemoveAll(i => i == 3);
+
+// Remove an item at a specific index from the list
+myList.RemoveAt(0);
+
+// Remove a range of items starting at a specific index from the list
+myList.RemoveRange(2, 3);
+
+// Reverse the order of the items in the list
+myList.Reverse();
+
+// Sort the items in the list
+myList.Sort();
+
+// Get a sub-list of items starting at a specific index
+List<int> subList = myList.GetRange(1, 3);
