@@ -1,4 +1,5 @@
 ﻿// * Script used to showcase examples for each DLL library.
+// * 1) Arrays
 // * 1) Static array
 // * 2) Dynamic array
 // * 2) Linked list
