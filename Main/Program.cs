@@ -76,6 +76,8 @@ myList.Add(3);
 myList.Add(4);
 myList.Add(5);
 
+Console.WriteLine(myList);
+
 // Add a range of items to the list
 myList.AddRange(new int[] { 6, 7, 8, 9, 10 });
 
