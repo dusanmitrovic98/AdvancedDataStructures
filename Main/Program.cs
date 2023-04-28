@@ -9,7 +9,7 @@ using DataStructures.Collections.DynamicArray;
 // Arrays
 // 1) Static array
 
-// 2) Dynamic array
+// b) Dynamic array
 // Create a new dynamic array with initial capacity of 2
 DynamicArray<int> dynamicArray = new DynamicArray<int>(2);
 
