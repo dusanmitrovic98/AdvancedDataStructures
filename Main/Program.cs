@@ -6,7 +6,7 @@
 
 using DataStructures.Collections.DynamicArray;
 
-// Arrays
+// 1) Arrays
 // a) Static array
 
 // b) Dynamic array
