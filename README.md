@@ -11,7 +11,7 @@ Advanced list of data structures written in C#.
 ```
 [+] 1.  Arrays | status: PENDING
         A collection of elements of the same data type stored in contiguous memory locations.
-        [+] Static Arrays | PENDING
+        [x] Static Arrays | PENDING
         [x] Dynamic Arrays | PENDING
 
 [ ] 2.  Linked Lists | status: PENDING
