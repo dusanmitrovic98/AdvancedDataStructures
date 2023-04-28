@@ -1,6 +1,7 @@
 ﻿// * Script used to showcase examples for each DLL library.
 // * 1) Static array
 // * 2) Dynamic array
+// * 2) Linked list
 
 using DataStructures.Collections.DynamicArray;
 
@@ -61,3 +62,4 @@ stringArray.Add("hello");
 stringArray.Add("world");
 stringArray.TrimExcess(); // stringArray has capacity of 2 now
 Console.WriteLine(stringArray);
+
