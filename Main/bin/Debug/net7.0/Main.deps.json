@@ -9,7 +9,8 @@
       "Main/1.0.0": {
         "dependencies": {
           "Arrays": "1.0.0.0",
-          "DynamicArrays": "1.0.0.0"
+          "DynamicArrays": "1.0.0.0",
+          "List": "1.0.0.0"
         },
         "runtime": {
           "Main.dll": {}
@@ -30,6 +31,14 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "List/1.0.0.0": {
+        "runtime": {
+          "List.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -45,6 +54,11 @@
       "sha512": ""
     },
     "DynamicArrays/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "List/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
