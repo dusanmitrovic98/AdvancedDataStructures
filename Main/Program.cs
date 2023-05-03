@@ -118,3 +118,7 @@ int[] stackArray = myStack.ToArray(); // [10, 20, 30]
 
 // Clearing all elements from the stack
 myStack.Clear();
+
+// Adding a range of elements to the stack
+int[] numbers = { 1, 2, 3, 4, 5 };
+myStack = new Stack<int>(numbers);
