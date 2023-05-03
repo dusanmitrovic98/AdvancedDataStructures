@@ -122,3 +122,16 @@ myStack.Clear();
 // Adding a range of elements to the stack
 int[] numbers = { 1, 2, 3, 4, 5 };
 myStack = new Stack<int>(numbers);
+
+// Using the foreach loop to iterate through the stack
+foreach (int number in myStack)
+{
+    Console.WriteLine(number);
+}
+
+// Output:
+// 5
+// 4
+// 3
+// 2
+// 1
