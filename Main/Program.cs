@@ -94,3 +94,9 @@ Console.WriteLine("List Contains Item: " + containsItem);
 
 // Creating a new stack of integers
 Stack<int> myStack = new Stack<int>();
+
+// Adding elements to the stack
+myStack.Push(10);
+myStack.Push(20);
+myStack.Push(30);
+myStack.Push(40);
