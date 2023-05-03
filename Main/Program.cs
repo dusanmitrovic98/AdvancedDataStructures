@@ -3,6 +3,7 @@
 // *    a) Static array
 // *    b) Dynamic array
 // * 2) Linked list
+// * 3) Stacks
 
 using DataStructures.Collections.DynamicArray;
 using DataStructures.Collections.List;
@@ -88,3 +89,5 @@ Console.WriteLine(myList);
 // Check if an item is in the list
 bool containsItem = myList.Contains(5);
 Console.WriteLine("List Contains Item: " + containsItem);
+
+// * Stacks
