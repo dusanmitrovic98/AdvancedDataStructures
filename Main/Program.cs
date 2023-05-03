@@ -109,3 +109,12 @@ int topElement = myStack.Peek(); // 40
 
 // Removing the top element from the stack
 int removedElement = myStack.Pop(); // 40
+
+// Checking the count of elements in the stack
+int count = myStack.Count; // 3
+
+// Converting the stack to an array
+int[] stackArray = myStack.ToArray(); // [10, 20, 30]
+
+// Clearing all elements from the stack
+myStack.Clear();
