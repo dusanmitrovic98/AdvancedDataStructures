@@ -91,3 +91,6 @@ bool containsItem = myList.Contains(5);
 Console.WriteLine("List Contains Item: " + containsItem);
 
 // * Stacks
+
+// Creating a new stack of integers
+Stack<int> myStack = new Stack<int>();
