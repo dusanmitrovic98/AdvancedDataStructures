@@ -106,3 +106,6 @@ bool contains20 = myStack.Contains(20); // true
 
 // Peeking at the top element of the stack
 int topElement = myStack.Peek(); // 40
+
+// Removing the top element from the stack
+int removedElement = myStack.Pop(); // 40
