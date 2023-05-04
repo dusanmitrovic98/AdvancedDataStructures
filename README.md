@@ -22,7 +22,7 @@ Advanced list of data structures written in C#.
 [x] 3.  Stacks | status: PENDING
         A linear data structure that follows the Last-In-First-Out (LIFO) principle.
 
-[x] 4.  Queues | status: PENDING
+[] 4.  Queues | status: PENDING
         A linear data structure that follows the First-In-First-Out (FIFO) principle.
 
 [x] 5.  Trees | status: PENDING
