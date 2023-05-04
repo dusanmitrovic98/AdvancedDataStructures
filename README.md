@@ -137,23 +137,23 @@ Advanced list of data structures written in C#.
         A tree data structure used for storing intervals or segments, and allows for efficient
         queries on overlapping intervals.
 
- [ ] 37. B+ Trees | status: PENDING
+[ ] 37. B+ Trees | status: PENDING
         A tree data structure used for storing and retrieving large amounts of data on disk or
         other secondary storage devices.
 
- [ ] 38. Range Trees | status: PENDING
+[ ] 38. Range Trees | status: PENDING
         A tree data structure used for range searching, which is the task of finding all points
         or elements in a given range.
 
- [ ] 39. Rope Data Structures | status: PENDING
+[ ] 39. Rope Data Structures | status: PENDING
         A data structure used for efficiently representing and manipulating large strings by
         dividing them into smaller chunks.
 
- [ ] 40. Self-balancing Binary Search Trees | status: PENDING
+[ ] 40. Self-balancing Binary Search Trees | status: PENDING
         Binary search trees that automatically re-balance themselves to ensure a more balanced
         structure and maintain efficient search and insertion operations.
 
- [+] 41. Dictionary | status: IN-PROGRESS
+[+] 41. Dictionary | status: IN-PROGRESS
         A collection data structure that allows for efficient lookup, insertion, and deletion
         of key-value pairs.
 ```
