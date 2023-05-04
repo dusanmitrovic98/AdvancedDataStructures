@@ -11,6 +11,7 @@ Advanced list of data structures written in C#.
 ```
 [x] 1.  Arrays | status: PENDING
         A collection of elements of the same data type stored in contiguous memory locations.
+        
         [x] Static Arrays | Completed
         [x] Dynamic Arrays | Completed
 
@@ -31,6 +32,7 @@ Advanced list of data structures written in C#.
 [ ] 6.  Graphs | status: PENDING
         A non-linear data structure consisting of nodes (vertices) connected by edges that may or
         may not have a direction.
+        
         [ ] Directed Graphs | PENDING
 
 [ ] 7.  Hash Tables | status: PENDING
@@ -88,7 +90,7 @@ Advanced list of data structures written in C#.
 
  [ ] 23. Disjoint Sets (Union-Find) | status: PENDING
          A data structure that maintains a collection of disjoint sets and supports two
-        operations: union and find.
+         operations: union and find.
 
  [ ] 24. Bloom Filters | status: PENDING
          a probabilistic data structure used to test whether an element is a member of a set.
@@ -115,7 +117,7 @@ Advanced list of data structures written in C#.
 
  [ ] 31. Trie Trees | status: PENDING
          A tree-like data structure used to store associative arrays where the keys are sequences,
-        usually strings of characters.
+         usually strings of characters.
 
  [ ] 32. Patricia Tries | status: PENDING
          A compressed trie data structure used to store associative arrays where the keys are strings.
