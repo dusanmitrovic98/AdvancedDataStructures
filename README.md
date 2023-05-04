@@ -82,58 +82,58 @@ Advanced list of data structures written in C#.
         A self-balancing binary search tree in which each node is either red or black, with
         certain properties.
 
- [ ] 21. Fenwick Trees (Binary Indexed Trees) | status: PENDING
+[ ] 21. Fenwick Trees (Binary Indexed Trees) | status: PENDING
         A data structure used to efficiently compute and update prefix sums of an array.
 
- [ ] 22. Segment Trees | status: PENDING
+[ ] 22. Segment Trees | status: PENDING
          A tree data structure used to perform range queries and updates over an array.
 
- [ ] 23. Disjoint Sets (Union-Find) | status: PENDING
+[ ] 23. Disjoint Sets (Union-Find) | status: PENDING
          A data structure that maintains a collection of disjoint sets and supports two
          operations: union and find.
 
- [ ] 24. Bloom Filters | status: PENDING
+[ ] 24. Bloom Filters | status: PENDING
          a probabilistic data structure used to test whether an element is a member of a set.
 
- [ ] 25. Skip Lists | status: PENDING
+[ ] 25. Skip Lists | status: PENDING
          A data structure that allows efficient search, insertion, and deletion operations
          on a list of items.
 
- [ ] 26. Radix Trees | status: PENDING
+[ ] 26. Radix Trees | status: PENDING
          A compact trie-like data structure used for indexing variable-length keys.
 
- [ ] 27. Splay Trees | status: PENDING
+[ ] 27. Splay Trees | status: PENDING
          A self-adjusting binary search tree that reorganizes itself after every operation to
          make frequently accessed elements faster to access.
 
- [ ] 28. Quad Trees | status: PENDING
+[ ] 28. Quad Trees | status: PENDING
          A tree data structure in which each internal node has exactly four children.
 
- [ ] 29. Octrees | status: PENDING
+[ ] 29. Octrees | status: PENDING
          A tree data structure in which each internal node has exactly eight children.
 
- [ ] 30. K-D Trees | status: PENDING
+[ ] 30. K-D Trees | status: PENDING
          A space-partitioning data structure used for organizing points in a k-dimensional space.
 
- [ ] 31. Trie Trees | status: PENDING
+[ ] 31. Trie Trees | status: PENDING
          A tree-like data structure used to store associative arrays where the keys are sequences,
          usually strings of characters.
 
- [ ] 32. Patricia Tries | status: PENDING
+[ ] 32. Patricia Tries | status: PENDING
          A compressed trie data structure used to store associative arrays where the keys are strings.
 
- [ ] 33. Fibonacci Heaps | status: PENDING
+[ ] 33. Fibonacci Heaps | status: PENDING
         A priority queue data structure that provides faster amortized time complexity than the
         binary heap.
 
- [ ] 34. Binomial Heaps | status: PENDING
+[ ] 34. Binomial Heaps | status: PENDING
         A heap data structure where each node has at most two children and the heap shape is
         maintained using a binary encoding of the heap size.
 
- [ ] 35. Radix Heaps | status: PENDING
+[ ] 35. Radix Heaps | status: PENDING
         A heap data structure that uses radix sorting to maintain the heap property.
 
- [ ] 36. Interval Trees | status: PENDING
+[ ] 36. Interval Trees | status: PENDING
         A tree data structure used for storing intervals or segments, and allows for efficient
         queries on overlapping intervals.
 
