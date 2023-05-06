@@ -2,7 +2,7 @@
 // * 1) Arrays
 // *    a) Static array
 // *    b) Dynamic array
-// * 2) Linked list
+// * 2) Linked lists
 // * 3) Stacks
 // * 4) Queues
 // todo add Directed Graph examples
@@ -68,7 +68,7 @@ stringArray.Add("world");
 stringArray.TrimExcess(); // stringArray has capacity of 2 now
 Console.WriteLine(stringArray);
 
-// * List
+// * 2) Linked list
 // Create a new list
 DataStructures.Collections.List.List<int> myList = new DataStructures.Collections.List.List<int>();
 
@@ -92,7 +92,7 @@ Console.WriteLine(myList);
 bool containsItem = myList.Contains(5);
 Console.WriteLine("List Contains Item: " + containsItem);
 
-// * Stacks
+// * 3) Stacks
 
 // Creating a new stack of integers
 Stack<int> myStack = new Stack<int>();
@@ -138,7 +138,7 @@ foreach (int number in myStack)
 // 2
 // 1
 
-// * Queues
+// * 4) Queues
 
 Queue<string> q = new Queue<string>(5);
 q.Enqueue("Alice");
