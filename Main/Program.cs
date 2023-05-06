@@ -139,3 +139,20 @@ foreach (int number in myStack)
 // 1
 
 // * Queues
+
+Queue<string> q = new Queue<string>(5);
+q.Enqueue("Alice");
+q.Enqueue("Bob");
+q.Enqueue("Charlie");
+Console.WriteLine("Count: " + q.Count);
+Console.WriteLine("Peek: " + q.Peek());
+Console.WriteLine("Dequeue: " + q.Dequeue());
+Console.WriteLine("Dequeue: " + q.Dequeue());
+Console.WriteLine("Count: " + q.Count);
+q.Enqueue("Dave");
+Console.WriteLine("Enqueue: " + "Dave");
+Console.WriteLine("Count: " + q.Count);
+Console.WriteLine("Peek: " + q.Peek());
+Console.WriteLine("Dequeue: " + q.Dequeue());
+Console.WriteLine("Dequeue: " + q.Dequeue());
+Console.WriteLine("Count: " + q.Count);
