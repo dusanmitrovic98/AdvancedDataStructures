@@ -4,6 +4,7 @@
 // *    b) Dynamic array
 // * 2) Linked list
 // * 3) Stacks
+// todo add Directed Graph examples
 
 using DataStructures.Collections.DynamicArray;
 using DataStructures.Collections.List;
