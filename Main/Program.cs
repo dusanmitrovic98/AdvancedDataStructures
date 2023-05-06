@@ -4,6 +4,7 @@
 // *    b) Dynamic array
 // * 2) Linked list
 // * 3) Stacks
+// * 4) Queues
 // todo add Directed Graph examples
 
 using DataStructures.Collections.DynamicArray;
@@ -136,3 +137,5 @@ foreach (int number in myStack)
 // 3
 // 2
 // 1
+
+// * Queues
