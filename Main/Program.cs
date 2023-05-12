@@ -157,3 +157,5 @@ Console.WriteLine("Peek: " + q.Peek());
 Console.WriteLine("Dequeue: " + q.Dequeue());
 Console.WriteLine("Dequeue: " + q.Dequeue());
 Console.WriteLine("Count: " + q.Count);
+
+// * 5) Trees
