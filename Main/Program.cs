@@ -5,6 +5,7 @@
 // * 2) Linked lists
 // * 3) Stacks
 // * 4) Queues
+// * 5) Trees
 // todo add Directed Graph examples
 
 using DataStructures.Collections.DynamicArray;
