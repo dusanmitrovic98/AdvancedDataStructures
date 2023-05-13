@@ -25,21 +25,21 @@ Advanced list of data structures written in C#.
 [x] 4.  Queues | status: PENDING
         A linear data structure that follows the First-In-First-Out (FIFO) principle.
 
-[+] 5.  Trees | status: PENDING
+[x] 5.  Trees | status: PENDING
         A non-linear data structure consisting of nodes connected by edges, with a single node
         called the root and no cycles.
 
-[+] 6.  Graphs | status: PENDING
+[x] 6.  Graphs | status: PENDING
         A non-linear data structure consisting of nodes (vertices) connected by edges that may or
         may not have a direction.
         
-        [+] Directed Graphs | IN-PROGRESS
+        [x] Directed Graphs | IN-PROGRESS
 
 [ ] 7.  Hash Tables | status: PENDING
         A data structure that stores data in an associative manner, using a hash function to map
         keys to values.
 
-[ ] 8.  Heaps | status: PENDING
+[+] 8.  Heaps | status: PENDING
         A complete binary tree in which every node has a value less than or equal to (or greater
         than or equal to) the values of its children.
 
@@ -152,7 +152,7 @@ Advanced list of data structures written in C#.
 [ ] 40. Self-balancing Binary Search Trees | status: PENDING
         Binary search trees that automatically re-balance themselves to ensure a more balanced
         structure and maintain efficient search and insertion operations.
-
+        
 [+] 41. Dictionary | status: IN-PROGRESS
         A collection data structure that allows for efficient lookup, insertion, and deletion
         of key-value pairs.
