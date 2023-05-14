@@ -49,7 +49,7 @@ Advanced list of data structures written in C#.
 [ ] 10. Sets | status: PENDING
         A collection of unique elements.
 
-[ ] 11. Maps | status: PENDING
+[x] 11. Maps | status: PENDING
         A collection of key-value pairs.
 
 [ ] 12. Vectors | status: PENDING
