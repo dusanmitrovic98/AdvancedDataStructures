@@ -117,7 +117,7 @@ int removedElement = myStack.Pop(); // 40
 int count = myStack.Count; // 3
 
 // Converting the stack to an array
-int[] stackArray = myStack.ToArray(); // [10, 20, 30]
+int[] stackArray = myStack.ToArray();
 
 // Clearing all elements from the stack
 myStack.Clear();
