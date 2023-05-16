@@ -61,7 +61,7 @@ Advanced list of data structures written in C#.
 [+] 14. Strings | status: PENDING
         A sequence of characters.
 
-[ ] 15. Priority Queues | status: PENDING
+[+] 15. Priority Queues | status: PENDING
         A data structure in which each element has a priority associated with it.
 
 [ ] 16. Bit Arrays | status: PENDING
