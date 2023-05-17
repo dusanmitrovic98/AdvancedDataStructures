@@ -195,3 +195,4 @@ setB.Clear();
 
 // Union
 Set<int> unionSet = setA.Union(setB);
+Console.WriteLine("Union: " + string.Join(", ", unionSet));
