@@ -199,3 +199,5 @@ Console.WriteLine("Union: " + string.Join(", ", unionSet)); // Output: Union: 1,
 
 // Intersection
 Set<int> intersectionSet = setA.Intersection(setB);
+
+Console.WriteLine("Intersection: " + string.Join(", ", intersectionSet));  // Output: Intersection:
