@@ -163,3 +163,4 @@ Console.WriteLine("Count: " + q.Count);
 // * 5) Trees
 
 // * 10) Sets
+Set<int> setA = new Set<int>();
