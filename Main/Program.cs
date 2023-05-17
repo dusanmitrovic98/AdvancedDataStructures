@@ -212,3 +212,11 @@ Console.WriteLine("Is B a subset of A: " + isSubset);  // Output: Is B a subset 
 // IsSupersetOf
 bool isSuperset = setA.IsSupersetOf(setB);
 Console.WriteLine("Is A a superset of B: " + isSuperset);  // Output: Is A a superset of B: True
+
+// Iterating over the set
+Console.WriteLine("Elements of setA:");
+
+foreach (int item in setA)
+{
+    Console.WriteLine(item);
+}
