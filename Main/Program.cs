@@ -187,3 +187,4 @@ setA.Add(4);
 setA.Remove(2);
 
 // Contains
+bool contains = setA.Contains(3);
