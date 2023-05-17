@@ -196,3 +196,6 @@ setB.Clear();
 // Union
 Set<int> unionSet = setA.Union(setB);
 Console.WriteLine("Union: " + string.Join(", ", unionSet)); // Output: Union: 1, 3, 4
+
+
+// Intersection
