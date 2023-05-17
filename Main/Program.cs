@@ -194,3 +194,4 @@ Console.WriteLine("Contains 3: " + contains);  // Output: Contains 3: True
 setB.Clear();
 
 // Union
+Set<int> unionSet = setA.Union(setB);
