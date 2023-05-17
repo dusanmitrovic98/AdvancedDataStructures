@@ -16,7 +16,7 @@
         <HintPath>C:\Users\BK2O198\Documents\Workstation\DataStructures\Collections\List\List.dll</HintPath>
     </Reference>
     <Reference Include="DataStructures.Collections.Array;">
-        <HintPath>C:\Users\BK2O198\Documents\Workstation\DataStructures\Collections\List\Sets.dll</HintPath>
+        <HintPath>C:\Users\BK2O198\Documents\Workstation\DataStructures\Collections\Sets\Sets.dll</HintPath>
     </Reference>
   </ItemGroup>
 </Project>
