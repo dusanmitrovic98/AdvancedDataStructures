@@ -170,3 +170,5 @@ Set<int> setB = new Set<int>();
 setA.Add(1);
 setA.Add(2);
 setA.Add(3);
+
+// Add items to setB
