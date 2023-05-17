@@ -175,3 +175,6 @@ setA.Add(3);
 setB.Add(2);
 setB.Add(3);
 setB.Add(4);
+
+// Count
+int countSet = setA.Count;
