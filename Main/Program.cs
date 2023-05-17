@@ -178,7 +178,9 @@ setB.Add(4);
 
 // Count
 int countSet = setA.Count;
-Console.WriteLine("Count: " + countSet);  // Output: Count: 3
+Console.WriteLine("Count: " + count);  // Output: Count: 3
 
 // Add
 setA.Add(4);
+
+// Remove
