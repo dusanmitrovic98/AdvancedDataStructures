@@ -192,3 +192,5 @@ Console.WriteLine("Contains 3: " + contains);  // Output: Contains 3: True
 
 // Clear
 setB.Clear();
+
+// Union
