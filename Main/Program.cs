@@ -220,3 +220,9 @@ foreach (int item in setA)
 {
     Console.WriteLine(item);
 }
+
+// Output:
+// Elements of setA:
+// 1
+// 3
+// 4
