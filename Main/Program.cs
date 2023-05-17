@@ -172,3 +172,4 @@ setA.Add(2);
 setA.Add(3);
 
 // Add items to setB
+setB.Add(2);
