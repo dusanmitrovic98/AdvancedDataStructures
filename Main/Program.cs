@@ -185,3 +185,5 @@ setA.Add(4);
 
 // Remove
 setA.Remove(2);
+
+// Contains
