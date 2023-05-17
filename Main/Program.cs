@@ -202,3 +202,4 @@ Set<int> intersectionSet = setA.Intersection(setB);
 Console.WriteLine("Intersection: " + string.Join(", ", intersectionSet));  // Output: Intersection:
 
 // Difference
+Set<int> differenceSet = setA.Difference(setB);
