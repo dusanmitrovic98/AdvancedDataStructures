@@ -189,3 +189,5 @@ setA.Remove(2);
 // Contains
 bool contains = setA.Contains(3);
 Console.WriteLine("Contains 3: " + contains);  // Output: Contains 3: True
+
+// Clear
