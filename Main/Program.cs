@@ -11,6 +11,7 @@
 
 using DataStructures.Collections.DynamicArray;
 using DataStructures.Collections.List;
+using DataStructures.Collections.Sets;
 
 // * 1) Arrays
 // * a) Static array
