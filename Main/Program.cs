@@ -164,3 +164,4 @@ Console.WriteLine("Count: " + q.Count);
 
 // * 10) Sets
 Set<int> setA = new Set<int>();
+Set<int> setB = new Set<int>();
