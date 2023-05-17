@@ -203,3 +203,5 @@ Console.WriteLine("Intersection: " + string.Join(", ", intersectionSet));  // Ou
 
 // Difference
 Set<int> differenceSet = setA.Difference(setB);
+
+Console.WriteLine("Difference: " + string.Join(", ", differenceSet));
