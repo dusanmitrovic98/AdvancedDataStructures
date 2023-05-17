@@ -208,3 +208,5 @@ Console.WriteLine("Difference: " + string.Join(", ", differenceSet)); // Output:
 // IsSubsetOf
 bool isSubset = setB.IsSubsetOf(setA);
 Console.WriteLine("Is B a subset of A: " + isSubset);  // Output: Is B a subset of A: False
+
+// IsSupersetOf
