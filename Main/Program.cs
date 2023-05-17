@@ -169,3 +169,4 @@ Set<int> setB = new Set<int>();
 // Add items to setA
 setA.Add(1);
 setA.Add(2);
+setA.Add(3);
