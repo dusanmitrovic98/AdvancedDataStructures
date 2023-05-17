@@ -178,3 +178,4 @@ setB.Add(4);
 
 // Count
 int countSet = setA.Count;
+Console.WriteLine("Count: " + countSet);
