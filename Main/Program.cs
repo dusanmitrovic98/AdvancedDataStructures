@@ -184,3 +184,4 @@ Console.WriteLine("Count: " + count);  // Output: Count: 3
 setA.Add(4);
 
 // Remove
+setA.Remove(2);
