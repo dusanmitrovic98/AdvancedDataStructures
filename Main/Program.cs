@@ -160,3 +160,5 @@ Console.WriteLine("Dequeue: " + q.Dequeue());
 Console.WriteLine("Count: " + q.Count);
 
 // * 5) Trees
+
+// * 10) Sets
