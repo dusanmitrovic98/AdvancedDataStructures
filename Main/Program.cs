@@ -181,3 +181,4 @@ int countSet = setA.Count;
 Console.WriteLine("Count: " + countSet);  // Output: Count: 3
 
 // Add
+setA.Add(4);
