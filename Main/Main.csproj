@@ -18,5 +18,8 @@
     <Reference Include="DataStructures.Collections.Array;">
         <HintPath>C:\Users\BK2O198\Documents\Workstation\DataStructures\Collections\Sets\Sets.dll</HintPath>
     </Reference>
+    <Reference Include="DataStructures.Collections.Array;">
+        <HintPath>C:\Users\BK2O198\Documents\Workstation\DataStructures\Collections\Matrices\Matrices.dll</HintPath>
+    </Reference>
   </ItemGroup>
 </Project>
