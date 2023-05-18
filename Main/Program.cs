@@ -7,6 +7,7 @@
 // * 4) Queues
 // * 5) Trees
 // * 10) Sets
+// * 13) Matrices
 // todo add Directed Graph examples
 
 using DataStructures.Collections.DynamicArray;
@@ -226,3 +227,5 @@ foreach (int item in setA)
 // 1
 // 3
 // 4
+
+// * 13) Matrices
