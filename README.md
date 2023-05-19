@@ -70,7 +70,7 @@ Advanced list of data structures written in C#.
 [x] 17. Binary Search Trees | status: PENDING
         Binary search trees are data structures that organize data in a hierarchical, sorted manner.
 
-[ ] 18. AVL Trees | status: PENDING
+[x] 18. AVL Trees | status: PENDING
         a self-balancing binary search tree in which the heights of the two child subtrees
         of any node differ by at most one.
 
