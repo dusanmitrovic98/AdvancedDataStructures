@@ -52,7 +52,7 @@ Advanced list of data structures written in C#.
 [x] 11. Maps | status: PENDING
         A collection of key-value pairs.
 
-[ ] 12. Vectors | status: PENDING
+[x] 12. Vectors | status: PENDING
         A dynamic array that can resize itself during runtime.
 
 [ ] 13. Matrices | status: PENDING
