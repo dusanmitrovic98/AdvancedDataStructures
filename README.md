@@ -46,7 +46,7 @@ Advanced list of data structures written in C#.
 [x] 9.  Tries | status: PENDING
         A tree-like data structure used to store associative arrays where the keys are strings.
 
-[#] 10. Sets | status: PENDING
+[x] 10. Sets | status: PENDING
         A collection of unique elements.
 
 [ ] 11. Maps | status: PENDING
