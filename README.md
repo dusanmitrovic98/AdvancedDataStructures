@@ -43,7 +43,7 @@ Advanced list of data structures written in C#.
         A complete binary tree in which every node has a value less than or equal to (or greater
         than or equal to) the values of its children.
 
-[ ] 9.  Tries | status: PENDING
+[#] 9.  Tries | status: PENDING
         A tree-like data structure used to store associative arrays where the keys are strings.
 
 [#] 10. Sets | status: PENDING
