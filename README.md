@@ -39,7 +39,7 @@ Advanced list of data structures written in C#.
         A data structure that stores data in an associative manner, using a hash function to map
         keys to values.
 
-[+] 8.  Heaps | status: PENDING
+[ ] 8.  Heaps | status: PENDING
         A complete binary tree in which every node has a value less than or equal to (or greater
         than or equal to) the values of its children.
 
@@ -49,7 +49,7 @@ Advanced list of data structures written in C#.
 [x] 10. Sets | status: PENDING
         A collection of unique elements.
 
-[+] 11. Maps | status: PENDING
+[ ] 11. Maps | status: PENDING
         A collection of key-value pairs.
 
 [ ] 12. Vectors | status: PENDING
