@@ -13,7 +13,9 @@ Advanced list of data structures written in C#.
         A non-linear data structure consisting of nodes connected by edges, with a single node called the root and no cycles.
 
 [x] 2.  Graphs | status: PENDING
-A non-linear data structure consisting of nodes (vertices) connected by edges that 
+A non-linear data structure consisting of nodes (vertices) connected by edges that may or
+
+  may not have a direction.
         
 [] 1.  Arrays | status: PENDING
 
