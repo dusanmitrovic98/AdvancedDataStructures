@@ -12,13 +12,7 @@ Advanced list of data structures written in C#.
 
 [ ] 1. Vectors | status: PENDINGruntime.
 
-[x] 2. Matrices | status: PENDING
-
-        A collection of elements arranged in rows and columns.
-
-        A dynamic array that can resize itself during 
-
- A dynamic array that can resize itself during runtime.
+[x] 2. 
 
 [x] 2. Matrices | status: PENDING
 
