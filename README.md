@@ -11,7 +11,7 @@ Advanced list of data structures written in C#.
 ```
 
 
-        
+
 
 [] 2.  Arrays | status: PENDING
 
