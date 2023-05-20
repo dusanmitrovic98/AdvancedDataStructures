@@ -17,6 +17,10 @@ Advanced list of data structures written in C#.
         [x] Static Arrays | Completed
         [x] Dynamic Arrays | Completed
 
+
+[x] 2. 
+
+
 [x] 2.  Linked Lists | status: PENDING
         A linear data structure made up of nodes that hold a value and a reference to the next
         node in the list.
