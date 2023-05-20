@@ -17,7 +17,7 @@ Advanced list of data structures written in C#.
         A non-linear data structure 
 consisting of nodes (vertices) connected by edges that may or
 
-        may not have a direction.
+ may not have a direction.
   
         
 [] 1.  Arrays | status: PENDING
