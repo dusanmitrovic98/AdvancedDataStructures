@@ -9,8 +9,7 @@ Advanced list of data structures written in C#.
 ```
 
 ```
-[ ] 17. Binary Search Trees | status: PENDING
-        Binary 
+[ ] 17. Binary 
 
 [ ] 1. Binary Search Trees | status: PENDING
         Binary search trees are data structures that organize data in a hierarchical, sorted manner.
