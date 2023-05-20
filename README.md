@@ -11,7 +11,7 @@ Advanced list of data structures written in C#.
 ```
 [x] 1.  Trees | status: PENDING
 data structure consisting of nodes connected by edges, with a single node 
-        A non-linear called the root and no cycles.
+        A non-linear called the root.
 
 [x] 2.  Graphs | status: PENDING
 A non-linear data structure consisting of nodes (vertices) connected by edges that may or
