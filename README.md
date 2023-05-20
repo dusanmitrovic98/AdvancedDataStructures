@@ -11,7 +11,7 @@ Advanced list of data structures written in C#.
 ```
 
 
-[ ] 1. 
+[ ] 1. Binary Search Trees | status: PENDING 
         
 [] 2.  Arrays | status: PENDING
 
