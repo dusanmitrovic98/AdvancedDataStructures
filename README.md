@@ -9,7 +9,7 @@ Advanced list of data structures written in C#.
 ```
 
 ```
-[x] 1.   (vertices) connected by edges that may or
+[x] 1.   (vertices) 
 
 may not have a direction.
         
