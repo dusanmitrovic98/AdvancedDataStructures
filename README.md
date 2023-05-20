@@ -21,7 +21,7 @@ Advanced list of data structures written in C#.
 [x] 2.  Stacks | status: PENDING
 
  A linear data structure that follows the Last-In-First-Out (LIFO) principle.
-       
+
 
 
 [x] 2.  Linked Lists | status: PENDING
