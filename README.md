@@ -9,7 +9,9 @@ Advanced list of data structures written in C#.
 ```
 
 ```
-[x] 1.  Trees | status: 
+[x] 1.  Trees | status: PENDING
+
+        A non-linear 
 
 [x] 2.  Graphs | status: PENDING
 A non-linear data structure consisting of nodes (vertices) connected by edges that may or
