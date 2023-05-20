@@ -10,9 +10,7 @@ Advanced list of data structures written in C#.
 
 ```
 
-[ ] 1. Vectors | status: PENDINGruntime.
-
-[x] 2. 
+[ ] 1. Vectors | status: 
 
 [x] 2. Matrices | status: PENDING
 
