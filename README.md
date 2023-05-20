@@ -9,6 +9,7 @@ Advanced list of data structures written in C#.
 ```
 
 ```
+[x] 1.  Trees | 
   
 [] 1.  Arrays | status: PENDING
 
