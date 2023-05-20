@@ -14,9 +14,6 @@ Advanced list of data structures written in C#.
 
 [x] 2.  Graphs | status: PENDING
 
-        A non-linear 
-  data structure 
-consisting of nodes (vertices) 
         
 [] 1.  Arrays | status: PENDING
 
