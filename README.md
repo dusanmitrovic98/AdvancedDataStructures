@@ -9,7 +9,7 @@ Advanced list of data structures written in C#.
 ```
 
 ```
-[x] 1.    
+[x] 
 
 may not have a direction.
         
