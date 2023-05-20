@@ -10,7 +10,8 @@ Advanced list of data structures written in C#.
 
 ```
 
-
+inary SearchSearc Trees | status: PENDING 
+        
 
 [] 2.  Arrays | status: PENDING
 
