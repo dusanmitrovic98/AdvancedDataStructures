@@ -11,7 +11,7 @@ Advanced list of data structures written in C#.
 ```    
 
 [ ] 1. Vectors | status: PENDING
-   A dynamic array that can resize itself during runtime.
+   A dynamic array that can resize itself 
      
         
 [x] 1.  Arrays | status: PENDING
