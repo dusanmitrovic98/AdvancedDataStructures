@@ -14,7 +14,7 @@ Advanced list of data structures written in C#.
 
 [x] 2. Matrices | status: PENDING
 
-        A collection of elements arranged in rows and columns.
+        A collection of elements arranged in rows and 
         
         
 [x] 1.  Arrays | status: PENDING
