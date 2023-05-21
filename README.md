@@ -12,7 +12,7 @@ Advanced list of data structures written in C#.
 
 
 
-[x] 2. Matrices | status: 
+[x] 2. Matrices | : 
 
         A        
         
