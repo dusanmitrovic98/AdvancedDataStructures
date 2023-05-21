@@ -10,9 +10,8 @@ Advanced list of data structures written in C#.
 
 ```    
 
-[ ] 1. Red-Black Trees | status:PENDING
-
-        A sewhich 
+[ ] 1. R 
+        
         
 [x] 1.  Arrays | status: PENDING
 
