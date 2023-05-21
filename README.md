@@ -8,11 +8,7 @@ Advanced list of data structures written in C#.
 [+] IN-PROGRESS
 ```
 
-```    
-
-[ ] 1. 
-     
-        
+```          
 [x] 1.  Arrays | status: PENDING
 
         A collection of elements of the same data type stored in contiguous memory locations.
