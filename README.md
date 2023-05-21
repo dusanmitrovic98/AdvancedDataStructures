@@ -14,7 +14,7 @@ Advanced list of data structures written in C#.
 
 [x] 2. Matrices | status: PENDING
 
-        A  of      
+        A        
         
         
 [x] 1.  Arrays | status: PENDING
