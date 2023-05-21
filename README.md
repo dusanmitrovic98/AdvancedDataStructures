@@ -12,8 +12,7 @@ Advanced list of data structures written in C#.
 
 [ ] 1. Red-Black Trees | status:PENDING
 
-        A self-balancing binary search 
-tree in 
+        A sewhich each node is either red or black, with certain 
         
 [x] 1.  Arrays | status: PENDING
 
