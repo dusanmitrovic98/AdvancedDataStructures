@@ -36,7 +36,7 @@ Advanced list of data structures written in C#.
         
         [x] Directed Graphs | IN-PROGRESS
 
-[] 7.  Hash Tables | status: PENDING
+[ ] 7.  Hash Tables | status: PENDING
         A data structure that stores data in an associative manner, using a hash function to map
         keys to values.
 
