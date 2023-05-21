@@ -23,7 +23,7 @@ Advanced list of data structures written in C#.
         A linear data structure made up of nodes that hold a value and a reference to the next
         node in the list.
 
-[x] 3.  Stacks | status: PENDING
+[&] 3.  Stacks | status: PENDING
         A linear data structure that follows the Last-In-First-Out (LIFO) principle.
 
 [x] 4.  Queues | status: PENDING
