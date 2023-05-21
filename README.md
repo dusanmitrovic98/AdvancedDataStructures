@@ -13,6 +13,7 @@ Advanced list of data structures written in C#.
 [ ] 1. Red-Black Trees | status:PENDING
 
         A sewhich each node is either red or black, with certain 
+tree in 
         
 [x] 1.  Arrays | status: PENDING
 
