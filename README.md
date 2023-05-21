@@ -17,7 +17,7 @@ Advanced list of data structures written in C#.
         A collection of elements arranged in rows and columns.
         
         
-[] 2.  Arrays | status: PENDING
+[] 1.  Arrays | status: PENDING
 
         A collection of elements of the same data type stored in contiguous memory locations.
         
