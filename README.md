@@ -4,7 +4,7 @@ Advanced list of data structures written in C#.
 
 ```
 [x] Completed
-[ ] PENDING
+[#] PENDING
 [+] IN-PROGRESS
 ```
 
