@@ -8,8 +8,9 @@ Advanced list of data structures written in C#.
 [+] IN-PROGRESS
 ```
 
-```
+```          
 [x] 1.  Arrays | status: PENDING
+
         A collection of elements of the same data type stored in contiguous memory locations.
         
         [x] Static Arrays | Completed
@@ -39,11 +40,11 @@ Advanced list of data structures written in C#.
         A data structure that stores data in an associative manner, using a hash function to map
         keys to values.
 
-[ ] 8.  Heaps | status: PENDING
+[x] 8.  Heaps | status: PENDING
         A complete binary tree in which every node has a value less than or equal to (or greater
         than or equal to) the values of its children.
 
-[ ] 9.  Tries | status: PENDING
+[x] 9.  Tries | status: PENDING
         A tree-like data structure used to store associative arrays where the keys are strings.
 
 [x] 10. Sets | status: PENDING
@@ -53,9 +54,11 @@ Advanced list of data structures written in C#.
         A collection of key-value pairs.
 
 [ ] 12. Vectors | status: PENDING
+
         A dynamic array that can resize itself during runtime.
 
-[+] 13. Matrices | status: PENDING
+[x] 13. Matrices | status: PENDING
+
         A collection of elements arranged in rows and columns.
 
 [ ] 14. Strings | status: PENDING
