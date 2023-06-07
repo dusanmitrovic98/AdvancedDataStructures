@@ -8,11 +8,11 @@ Advanced list of data structures written in C#.
 [+] IN-PROGRESS
 ```
 
-```          
+```
 [x] 1.  Arrays | status: PENDING
 
         A collection of elements of the same data type stored in contiguous memory locations.
-        
+
         [x] Static Arrays | Completed
         [x] Dynamic Arrays | Completed
 
@@ -33,7 +33,7 @@ Advanced list of data structures written in C#.
 [x] 6.  Graphs | status: PENDING
         A non-linear data structure consisting of nodes (vertices) connected by edges that may or
         may not have a direction.
-        
+
         [x] Directed Graphs | IN-PROGRESS
 
 [ ] 7.  Hash Tables | status: PENDING
@@ -155,7 +155,7 @@ Advanced list of data structures written in C#.
 [ ] 40. Self-balancing Binary Search Trees | status: PENDING
         Binary search trees that automatically re-balance themselves to ensure a more balanced
         structure and maintain efficient search and insertion operations.
-        
+
 [+] 41. Dictionary | status: IN-PROGRESS
         A collection data structure that allows for efficient lookup, insertion, and deletion
         of key-value pairs.
